@@ -37,7 +37,7 @@ namespace ConsoleApp3
 
                 }
 
-                if (a == command && a != "showall")
+                if (exit == command && exit != "showall")
                 {
                     break;
                 }
